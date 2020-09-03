@@ -1,0 +1,13 @@
+Running in cmd:
+	
+ python detect.py --images images
+
+
+Dataset:
+ 
+ INRIA Person Dataset (specifically, from the GRAZ-01 subset).
+
+Info:
+
+ Applied non max suppression to remov the redundant boxes.
+used HOG+Linear SVM
